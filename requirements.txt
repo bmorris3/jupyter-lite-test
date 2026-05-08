@@ -19,5 +19,6 @@ jupyterlite-p5-kernel==0.1.0
 # JupyterLab: Fasta file renderer (optional)
 jupyterlab-fasta>=3.3.0,<4
 
+ipykernel>=7.1.0
 mast-aladin==0.0.2
 jdaviz==5.0.1
